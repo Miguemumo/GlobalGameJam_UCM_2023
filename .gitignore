@@ -51,6 +51,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+Builds/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -75,3 +76,5 @@ DerivedDataCache/*
 
 #Other files
 *.png
+
+!/Content/Sprites/Favicon.png
